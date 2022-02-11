@@ -28,7 +28,7 @@ When - People feel bore in the workspace.
 How - By typing any word one can access the game.
 
 ### SWOT Analysis
-Strength - Error free snake game. Scores and lives are allocated according to the program.
-Weakness - Lack of high level graphics and more new rounds of the game.
-Opportunities - Player participation increases as it is simple and easy to use.
-Threats - A bug or hacker who may disrupt the program.
+Strength- Error free snake game. Scores and lives are allocated according to the program.
+Weakness- Lack of high level graphics and more new rounds of the game.
+Opportunities- Player participation increases as it is simple and easy to use.
+Threats- A bug or hacker who may disrupt the program.
