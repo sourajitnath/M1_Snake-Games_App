@@ -12,9 +12,9 @@ Nokia has installed the "Snake Games" on many of its phone.
 - Easy to play.
 
 ## Low Level Requirements
--A help menu with an explanation of the game and its rules.
--Displays the highest scores by a specific user.
--Improvement of graphics.
+- A help menu with an explanation of the game and its rules.
+- Displays the highest scores by a specific user.
+- Improvement of graphics.
 
 ### 4W's 1H
 What - This game makes the user comfortable as it is easy to use.
