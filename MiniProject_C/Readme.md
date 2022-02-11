@@ -1,3 +1,4 @@
 
-## Codacy Badge
-* ![Code grade](https://app.codiga.io/public/project/31041/M1_Snake-Games_App/dashboard)
+## Code analysis on Codiga platform
+* ![Code grade](https://api.codiga.io/project/31041/score/svg)
+* ![Code grade](https://api.codiga.io/project/31041/status/svg)
