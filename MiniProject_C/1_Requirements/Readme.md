@@ -8,12 +8,12 @@ Nokia has installed the "Snake Games" on many of its phone.
 
 ## High Level Requirements
 - This snake game give 3 chances to the players to score more points.
-- Well time spender.
+- Displays the highest scores by a specific user.
 - Easy to play.
 
 ## Low Level Requirements
 - A help menu with an explanation of the game and its rules.
-- Displays the highest scores by a specific user.
+- Add more new rounds for the game.
 - Improvement of graphics.
 
 ### 4W's 1H
