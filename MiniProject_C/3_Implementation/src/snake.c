@@ -2,23 +2,29 @@
 // boundary using draw()
 #include <stdio.h>
 #include <stdlib.h>
+
 int i, j, height = 30;
 int width = 30, gameover, score;
-  
+
 // Function to draw a boundary
 void draw()
 {
-    // system("cls");
+    system("cls"); 
+
     for (i = 0; i < height; i++) {
         for (j = 0; j < width; j++) {
-            if (i == 0 || i == width - 1 || j == 0
-                || j == height - 1) {
+            if (i == 0 || i == height - 1 || j == 0 || j == width - 1) {
                 printf("#");
-            }
-            else {
+            } else {
                 printf(" ");
             }
         }
         printf("\n");
     }
+}
+
+int main()
+{
+    draw();
+    return 0;
 }
